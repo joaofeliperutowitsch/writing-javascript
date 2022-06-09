@@ -1,7 +1,7 @@
 var $nome = 'felipe';
 let idade = 20;
 let ano = 2022 - idade
-let soma = idade - ano
+let soma = idade + ano
 let templateString = "Estou mexendo no comsole.log";
 let quartaFeira = true
 
