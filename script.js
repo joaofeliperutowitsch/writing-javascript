@@ -1,12 +1,11 @@
-var $nome = 'felipe';
-let idade = 20;
-let ano = 2022 - idade
+let nome = "felipe"
+let aniversario = 40
+let ano = 2022 - aniversario
+console.log (data)
 let soma = idade + ano
-let templateString = "Estou mexendo no comsole.log";
-let quartaFeira = true
-
 console.log (soma)
-console.log ("Estou mexendo no console.log")
-console.log (templateString)
+let templatestring = `Estou mechendo no console.log`;
+console.log (`Estou mechendo no console.log`)
+let quartaFeira = true
 console.log (quartaFeira)
 console.log (typeof quartaFeira)
